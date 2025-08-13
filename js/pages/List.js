@@ -86,10 +86,10 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">hola" target="_blank">TheShittyList</a></p>
+                        <p class="type-label-md">HPOLA</a></p>
                     </div>
                     <template v-if="editors">
-                        <h3>List Editors</h3>
+                        <h3>editores de lista</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
