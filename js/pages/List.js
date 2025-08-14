@@ -103,19 +103,19 @@ export default {
                         HOLA
                     </p>
                     <p>
-                        NO SZEQ UE ES ESTO
+                        las reglas son no hagas trampa porque 
                     </p>
                     <p>
-                        AH SON COMO LAS REGLAS NO
+                        nos vamos a dar cuenta
                     </p>
                     <p>
-                        NO CHITEES ME VOY A DAR CUENTA
+                        clicks requeridos para todo top 10 en adelante
                     </p>
                     <p>
-                        
+                        cheat indicator 100% necesario
                     </p>
                     <p>
-
+                        CBF permitido
                     </p>
                     <p>
 
