@@ -1,0 +1,18 @@
+{
+    "id": 109,
+    "name": "hola",
+    "author": "Poroto",
+    "creators": ["Poroto"],
+    "verifier": "Poroto",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "copiable gratuitamente",
+    "records": [
+        {
+            "user": "valen",
+            "link": "",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}

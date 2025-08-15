@@ -1,0 +1,18 @@
+{
+    "id": 107,
+    "name": "TotallyNotConfusing",
+    "author": "aqua",
+    "creators": ["aqua"],
+    "verifier": "aqua",
+    "verification": "https://youtu.be/ZB1uDLtbBbE",
+    "percentToQualify": "100",
+    "password": "copiable gratuitamente",
+    "records": [
+                {
+            "user": "valen",
+            "link": "",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}

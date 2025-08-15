@@ -1,0 +1,18 @@
+{
+    "id": 108,
+    "name": "namibia",
+    "author": "hola",
+    "creators": ["hola"],
+    "verifier": "hola",
+    "verification": "hhttps://youtu.be/NQScRWfIZDU?si=AEDIG4X9KOWFjB1L",
+    "percentToQualify": "100",
+    "password": "copiable gratuitamente",
+    "records": [
+        {
+            "user": "valen",
+            "link": "",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
