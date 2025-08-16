@@ -10,7 +10,13 @@
     "records": [
         {
             "user": "valen",
-            "link": "",
+            "link": "https://youtu.be/ptygze_cEW8",
+            "percent": 100,
+            "hz": 165
+        },
+                {
+            "user": "aqua",
+            "link": "https://youtu.be/yM83iW6ejNw",
             "percent": 100,
             "hz": 165
         }
