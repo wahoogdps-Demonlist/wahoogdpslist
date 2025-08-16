@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "copiable gratuitamente",
     "records": [
+                        {
+            "user": "sinder96",
+            "link": "",
+            "percent": 100,
+            "hz": 165
+        },
                 {
             "user": "Wumbus",
             "link": "",
