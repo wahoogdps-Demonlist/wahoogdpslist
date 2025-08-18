@@ -1,0 +1,18 @@
+{
+    "id": 123,
+    "name": "Be",
+    "author": "azasi",
+    "creators": ["azasi"],
+    "verifier": "azasi",
+    "verification": "https://www.youtube.com/watch?v=73kPCjyPkgE",
+    "percentToQualify": "100",
+    "password": "copiable gratuitamente",
+    "records": [
+                {
+            "user": "valen",
+            "link": "",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
